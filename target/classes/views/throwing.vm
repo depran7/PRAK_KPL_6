@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Upload</title>
+</head>
+<body>
+<form action="http://localhost:4567/throwing">
+    <h2>Latihan THROW</h2>
+    <p>nilai hasil -> $hasil </p>
+</form>
+</body>
+</html>

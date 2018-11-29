@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Upload</title>
+</head>
+<body>
+<form action="http://localhost:4567/nullPointer">
+    <h2>Latihan EXCEPTION NULLPONITER</h2>
+    <p>nilai s -> $s </p>
+    <p>nilai first -> $first </p>
+    <p>nilai rest -> $rest </p>
+    <p>nilai hasil -> $hasil </p>
+</form>
+</body>
+</html>

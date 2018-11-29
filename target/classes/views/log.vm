@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Upload</title>
+</head>
+<body>
+    <h2>Latihan Menggunakan LOG</h2>
+    <p>nilai a -> $a </p>
+    <p>nilai index -> $index </p>
+    <p>nilai hasil -> $test </p>
+</body>
+</html>
